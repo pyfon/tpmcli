@@ -1,7 +1,7 @@
 # Team Password Manager CLI Client
 This is a simple command-line client for [Team Password Manager](https://teampasswordmanager.com/) written in Python 3.  
 The software takes advantage of the TPM API - the API feature must be enabled on your target server.  
-The tool can query TPM for passwords using search patterns. It has built-in regular expression functionality, and aims to be as fast as possible by utilising caching and concurrency.
+The tool can query TPM for passwords using search patterns. It has built-in regular expression functionality, and aims to be as fast as possible by utilising caching and concurrency.  
 This is third-party and unofficial software - Team Password Manager does not provide a command-line client themselves.  
 This is free software and is released under the GPLv3.  
 
