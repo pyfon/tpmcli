@@ -47,6 +47,10 @@ The available options can be seen with --help:
       --nocolor             Do not use colourized output
       --brief               Print a simpler, brief output
 
+**Important:** The TPM cache must be periodically be re-generated with `--refresh`.  
+New passwords will not appear in queries until they have been added to the cache.  
+You may consider using cron to refresh the cache automatically.
+
 ### Examples
     $ tpm --brief website
     Found 3 results...
