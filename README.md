@@ -52,7 +52,7 @@ New passwords will not appear in queries until they have been added to the cache
 You may consider using cron to refresh the cache automatically.
 
 ### Examples
-    $ tpm --brief website
+    $ tpm --brief searchterm anothersearchterm
     Found 3 results...
     name: Website
     username: web1
