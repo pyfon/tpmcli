@@ -24,6 +24,7 @@ The recommended installation steps are are follows, but please adjust to your ne
 
 ## Usage
 The available options can be seen with --help:  
+
     $ ./tpm.py --help
     usage: tpm.py [-h] [--user USER] [--password PASSWORD] [--url URL] [--allfields] [--regex] [--threads THREADS] [--refresh] [--nocolor] [--brief] [pattern ...]
     
