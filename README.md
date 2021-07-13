@@ -13,7 +13,7 @@ The recommended installation steps are are follows, but please adjust to your ne
 `mkdir ~/.tpm`
 3. Copy the configuration file:  
 `cp settings.ini ~/.tpm/`
-4. Configure TPM:
+4. Configure TPM:  
 `vi ~/.tpm/settings.ini`
 5. Copy tpm.py into your $PATH:  
 `cp tpm.py ~/.local/bin/tpm && chmod a+x ~/.local/bin/tpm`  
