@@ -6,7 +6,7 @@ This is third-party and unofficial software - Team Password Manager does not pro
 This is free software and is released under the GPLv3.  
 
 ## Installation
-The recommended installation steps are are follows, but please adjust to your needs:  
+The following is a rough installation guide, but please adjust to your environment and requirements:  
 1. Install needed libraries:  
 `pip3 install pygments requests`
 2. Create the .tpm directory:  
