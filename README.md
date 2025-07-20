@@ -1,7 +1,7 @@
 # Team Password Manager CLI Client
 
 > [!WARNING]  
-> This project is unmaintained.
+> This project is unmaintained.  
 > I wrote this program for my own convenience as a DevOps engineer in 2019.  
 > My Python and general programming skills have improved significantly since.
 
